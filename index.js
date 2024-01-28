@@ -27,7 +27,7 @@ client.on('ready', async () => {
     .setType('WATCHING')
     .setURL('https://www.youtube.com/patkhet') //Must be a youtube video link 
     .setState('Discord Community')
-    .setName('Patkhet')
+    .setName('Patkhet Gamers')
     .setDetails(`THE NAME IT SHOWS YOUR STREAMING [${formatTime()}]`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1089491664348913766/1201091706800578600/Picsart_23-06-10_20-08-44-699.jpg') //You can put links in tenor or discord and etc.
