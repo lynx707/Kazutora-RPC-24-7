@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1089491664348913766/1201091706800578600/Picsart_23-06-10_20-08-44-699.jpg') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('Pᴀᴛᴋʜᴇᴛ Gᴀᴍᴇʀs') //Text when you hover the Large image
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/964235721630154812/1135216057339097159/verify.gif') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1102093230906023946/1135219284071698562/HB_VerifyWhite.gif') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Verify') //Text when you hover the Small image
     .addButton('Discord Server', 'https://discord.gg/EYYSKnXRer')
     .addButton('Facebook Page', 'https://facebook.com/patkhet.lol');
